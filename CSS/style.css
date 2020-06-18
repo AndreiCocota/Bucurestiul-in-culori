@@ -1,0 +1,56 @@
+body {
+    font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+html, body{
+    height: 100%;
+}
+
+.text-section {
+    width: 40%;
+    margin: 0px auto;
+    
+}
+
+#mapid {
+    width: 100%;
+    height: 50%;
+}
+#title {
+     color: #cf7500;
+}
+.personalinfo-section {
+    width: 50%;
+    height: 300px;
+    margin: 0px auto ;
+    text-align: left;
+    padding-top: 50px;
+    
+}
+.my-name {
+    color: #f0a500;
+}
+
+.my-image {
+    width: 250px;
+    float: right
+}
+
+.aboutme-section {
+    width: 50%;
+    height: 400px;
+    margin: 0px auto ;
+}
+
+.programmer-image{
+    float: left;
+    padding: 20px;
+}
+
+.description {
+    text-align: left;
+    width: 80%;
+    padding-top: 50px;
+    padding-left:70px ;
+}
